@@ -1,8 +1,3 @@
-5 
-<<<<<<< HEAD
+5
 created from test 
 Add from master
-=======
-created from test
-Add from test
->>>>>>> test
